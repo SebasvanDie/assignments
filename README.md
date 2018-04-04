@@ -1,2 +1,3 @@
 # assignments
-http://localhost:8891/notebooks/assignment2.ipynb
+this repository contains my assignments
+[assignment 2](https://github.com/SebasvanDie/assignments/blob/master/assignment2-2.ipynb)
