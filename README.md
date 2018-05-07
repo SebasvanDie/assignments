@@ -6,3 +6,5 @@ this repository contains my assignments:
 [assignment 3](https://github.com/SebasvanDie/assignments/blob/master/assignment3%20Done.ipynb)
 
 [assignment 4](https://github.com/SebasvanDie/assignments/blob/master/assignment4Done.ipynb)
+
+[assignment 5](https://github.com/SebasvanDie/assignments/blob/master/Graded_assignment1-2.ipynb)
