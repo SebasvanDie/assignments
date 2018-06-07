@@ -13,4 +13,4 @@ this repository contains my assignments:
 
 [Final R](https://github.com/SebasvanDie/assignments/blob/master/Exam_Sebastiaan_van_Die.ipynb)
 
-[Final Python](https://github.com/SebasvanDie/assignments/blob/master/exam_june_7_2018%20Python.py)
+[Final Python](https://github.com/SebasvanDie/assignments/blob/master/exam_june_7_2018%20Python%20final.ipynb)
