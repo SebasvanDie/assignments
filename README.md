@@ -10,3 +10,5 @@ this repository contains my assignments:
 [assignment 5](https://github.com/SebasvanDie/assignments/blob/master/Graded_assignment1-2.ipynb)
 
 [assignment 6](https://github.com/SebasvanDie/assignments/blob/master/Graded_assignment_2%20(2).ipynb)
+
+[Final R](https://github.com/SebasvanDie/assignments/blob/master/Exam_Sebastiaan_van_Die.ipynb)
